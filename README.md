@@ -1,10 +1,10 @@
 
 
 <h1>Xilofone em Dart</h1>
-<p>Um simples xilofone implementado em Dart.</p>
+<p>Um simples xilofone implementado em flutter.</p>
 
 <h2>Como Executar</h2>
-<p>Para executar o xilofone, certifique-se de ter o Dart instalado. Em seguida, siga os passos abaixo:</p>
+<p>Para executar o xilofone, certifique-se de ter o flutter instalado. Em seguida, siga os passos abaixo:</p>
 
 <code>
     $ flutter pub get
